@@ -20,4 +20,7 @@ public class UserService {
 		Optional<User> user = ur.findById(id);
 		return user.get();
 	}
+	public User insert(User user) {
+		return ur.save(user);
+	}
 }
