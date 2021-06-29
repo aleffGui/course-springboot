@@ -1,0 +1,83 @@
+[33mcommit bf1d963a8a5ec1ce8507a1afcb665b5be6226bbd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: aleffGui <alefff.guilherme@gmail.com>
+Date:   Mon Jun 28 18:20:08 2021 -0300
+
+    User delete
+
+[33mcommit a2699aa12130a5c95674ed4ca6e004445b4e3a92[m
+Author: aleffGui <alefff.guilherme@gmail.com>
+Date:   Mon Jun 28 17:56:52 2021 -0300
+
+    User insert
+
+[33mcommit 0fc2b4649c5c6448819b4c07456782f7aeeb388b[m
+Author: aleffGui <alefff.guilherme@gmail.com>
+Date:   Mon Jun 28 17:36:32 2021 -0300
+
+    Subtotal & Total methods
+
+[33mcommit 810b071013c077c7f4ee501f2393ab836f2d077f[m
+Author: aleffGui <alefff.guilherme@gmail.com>
+Date:   Sat Jun 26 13:37:50 2021 -0300
+
+    Payment, one-to-one association
+
+[33mcommit 418612d3d31ca48c9d6ca18b124d8a21d30a5747[m
+Author: aleffGui <alefff.guilherme@gmail.com>
+Date:   Sat Jun 26 12:26:00 2021 -0300
+
+    Product-OrderItem one-to-many association
+
+[33mcommit 68c8d4ca4d143e8a09956f7caf4fd1f8268ff11c[m
+Author: aleffGui <alefff.guilherme@gmail.com>
+Date:   Thu Jun 24 23:09:56 2021 -0300
+
+    OrderItem, many-to-many association with extra attributes
+
+[33mcommit 9820f6728993819aee7f777c72ed111e95d825e4[m
+Author: aleffGui <alefff.guilherme@gmail.com>
+Date:   Wed Jun 23 12:01:23 2021 -0300
+
+    Many-to-many association with JoinTable
+
+[33mcommit f0dc7a9c54ab5c860405f2d76df54a0221e56e9d[m
+Author: aleffGui <alefff.guilherme@gmail.com>
+Date:   Mon Jun 21 17:48:12 2021 -0300
+
+    Product
+
+[33mcommit 6cd5f1f68d98860c29c195764cb4a78f27102969[m
+Author: aleffGui <alefff.guilherme@gmail.com>
+Date:   Mon Jun 21 16:52:14 2021 -0300
+
+    Category
+
+[33mcommit 847569cc0339ca0c418184a6230c56b81ba8e6c4[m
+Author: aleffGui <alefff.guilherme@gmail.com>
+Date:   Mon Jun 21 15:47:13 2021 -0300
+
+    OrderStatus enum
+
+[33mcommit 2dcb4cf018b122f8dac796f2ca7054c58ce8f0fd[m
+Author: aleffGui <alefff.guilherme@gmail.com>
+Date:   Sat Jun 19 12:19:40 2021 -0300
+
+    Order, Instant, ISO 8601
+
+[33mcommit 3da79d1fd92d6098c752b3cc6be160cdd310c137[m
+Author: aleffGui <alefff.guilherme@gmail.com>
+Date:   Fri Jun 18 11:20:38 2021 -0300
+
+    Service layer, component registration
+
+[33mcommit 51506e3b81124d88e8ca6142694cda8d5418e21f[m
+Author: aleffGui <alefff.guilherme@gmail.com>
+Date:   Fri Jun 18 10:49:39 2021 -0300
+
+    JPA repository, dependency injection, database seeding
+
+[33mcommit 72f3316d4038edea07cee04612551b9b043db3e6[m
+Author: aleffGui <alefff.guilherme@gmail.com>
+Date:   Fri Jun 18 10:10:33 2021 -0300
+
+    H2 database, test profile, JPA
